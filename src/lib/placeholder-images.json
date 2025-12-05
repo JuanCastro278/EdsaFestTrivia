@@ -1,0 +1,65 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "prize-1",
+      "type": "prize",
+      "src": "https://picsum.photos/seed/tech1/400/400",
+      "alt": "Auriculares Inalámbricos",
+      "description": "Experimenta el sonido de alta fidelidad sin cables.",
+      "cost": 150,
+      "productUrl": "https://www.example.com/auriculares",
+      "data-ai-hint": "wireless headphones"
+    },
+    {
+      "id": "prize-2",
+      "type": "prize",
+      "src": "https://picsum.photos/seed/tech2/400/400",
+      "alt": "Smartwatch",
+      "description": "Mantente conectado y monitoriza tu actividad física.",
+      "cost": 250,
+      "productUrl": "https://www.example.com/smartwatch",
+      "data-ai-hint": "smartwatch"
+    },
+    {
+      "id": "prize-3",
+      "type": "prize",
+      "src": "https://picsum.photos/seed/tech3/400/400",
+      "alt": "Teclado Mecánico",
+      "description": "Escritura precisa y satisfactoria para profesionales.",
+      "cost": 180,
+      "productUrl": "https://www.example.com/keyboard",
+      "data-ai-hint": "mechanical keyboard"
+    },
+    {
+      "id": "prize-4",
+      "type": "prize",
+      "src": "https://picsum.photos/seed/tech4/400/400",
+      "alt": "Tablet 10 pulgadas",
+      "description": "Ideal para trabajo, estudio y entretenimiento.",
+      "cost": 400,
+      "productUrl": "https://www.example.com/tablet",
+      "data-ai-hint": "tablet device"
+    },
+    {
+        "id": "prize-5",
+        "type": "prize",
+        "src": "https://picsum.photos/seed/tech5/400/400",
+        "alt": "Mochila para Laptop",
+        "description": "Protege tus dispositivos con estilo y comodidad.",
+        "cost": 120,
+        "productUrl": "https://www.example.com/backpack",
+        "data-ai-hint": "laptop backpack"
+    },
+    {
+        "id": "prize-6",
+        "type": "prize",
+        "src": "https://picsum.photos/seed/tech6/400/400",
+        "alt": "Power Bank 20000mAh",
+        "description": "Nunca te quedes sin batería en tus viajes.",
+        "cost": 90,
+        "productUrl": "https://www.example.com/powerbank",
+        "data-ai-hint": "power bank"
+    }
+  ]
+}
